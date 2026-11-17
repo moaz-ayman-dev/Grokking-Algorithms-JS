@@ -4,7 +4,7 @@ This repository contains my personal notes and JavaScript implementations for th
 
 ## Progress Tracker 📈
 - [x] Chapter 1: Introduction to Algorithms (Binary Search & Big O)
-- [ ] Chapter 2: Selection Sort
+- [x] Chapter 2: Selection Sort
 - [ ] Chapter 3: Recursion
 - [ ] Chapter 4: Quicksort
 - [ ] Chapter 5: Hash Tables
