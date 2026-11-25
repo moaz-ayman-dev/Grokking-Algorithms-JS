@@ -1,4 +1,4 @@
-//1. eldala el 'ola bngeb mkan asghr 3nsr f el ka'ma (Index)
+//1. eldala el 'ola bngeb mkan asghr 3nsr f el kayma (Index)
 
 function findSmallest(arr) {
     let smallest = arr[0];  //hna bnftrd en awl 3nsr hwa el asghr
@@ -20,7 +20,7 @@ function selectionSort(arr) {
     let originalLength = arr.length;
 
     for (let i = 0; i < originalLength; i++) {
-        // bngeb mkan asghrrkm mwgod 7alya
+        // bngeb mkan asghr rkm mwgod 7alya
         let smallestIndex = findSmallest(arr);
 
         //btms7 el 3nsr mn el ka'ma el aslsya w btrg3o lena f JS f splice dala
