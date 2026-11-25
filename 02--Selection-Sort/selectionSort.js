@@ -35,4 +35,4 @@ function selectionSort(arr) {
 
 // tgrbt el kod
 const myNumbers = [10, 5, 2, 6 ,8];
-console.log(selectionSort(myNumbers)); 
+console.log(selectionSort(myNumbers));  
