@@ -19,4 +19,4 @@ function quicksort(arr) {
 console.log(quicksort([10, 5, 3, 2]));
 console.log(quicksort([]));
 console.log(quicksort([7]));
-console.log(quicksort([4,2,7,6,9,10]));
+console.log(quicksort([4,2,7,6,9,10])); 
